@@ -21,7 +21,7 @@ Install these dependencies using:
 ## Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/repository.git
+   git clone https://github.com/Narmatha-28/bigdataanalytics.git
     ```
 
 2. Run Script:
